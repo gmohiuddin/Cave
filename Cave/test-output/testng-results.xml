@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="56488" started-at="2020-01-03T01:50:45Z" finished-at="2020-01-03T01:51:42Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="56488" started-at="2020-01-03T01:50:45Z" finished-at="2020-01-03T01:51:42Z">
+      <class name="Scenarios.SmokeTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Scenarios.SmokeTest@3bbc39f8]" name="setUp" is-config="true" duration-ms="13478" started-at="2020-01-02T20:50:47Z" finished-at="2020-01-02T20:51:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="searchEmp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Scenarios.SmokeTest@3bbc39f8]" name="searchEmp" duration-ms="6" started-at="2020-01-02T20:51:00Z" data-provider="getTestData" finished-at="2020-01-02T20:51:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Russel Hamilton]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[0008]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[mail.golam@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchEmp -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Scenarios.SmokeTest@3bbc39f8]" name="setUp" is-config="true" duration-ms="9444" started-at="2020-01-02T20:51:00Z" finished-at="2020-01-02T20:51:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="searchEmp2(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Scenarios.SmokeTest@3bbc39f8]" name="searchEmp2" duration-ms="3" started-at="2020-01-02T20:51:10Z" data-provider="getTestData" finished-at="2020-01-02T20:51:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Russel Hamilton]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[0008]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[mail.golam@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchEmp2 -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Scenarios.SmokeTest@3bbc39f8]" name="setUp" is-config="true" duration-ms="10801" started-at="2020-01-02T20:51:10Z" finished-at="2020-01-02T20:51:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="openZoopla()[pri:0, instance:Scenarios.SmokeTest@3bbc39f8]" name="openZoopla" duration-ms="21202" started-at="2020-01-02T20:51:20Z" finished-at="2020-01-02T20:51:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openZoopla -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Scenarios.SmokeTest@3bbc39f8]" name="tearDown" is-config="true" duration-ms="2" started-at="2020-01-02T20:51:42Z" finished-at="2020-01-02T20:51:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Scenarios.SmokeTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,17 @@
+2020-01-02 08:08:57 INFO  EmployeesRestAPI:43 - ******************* Checking response body ****************
+ 2020-01-02 09:20:37 INFO  EmployeesRestAPI:43 - ******************* Checking response body ****************
+ 2020-01-02 09:44:47 INFO  EmployeesRestAPI:44 - ******************* Checking response body ****************
+ 2020-01-02 09:44:56 INFO  EmployeesRestAPI:52 - ******************* Finished TC001_GET_AllEmployees ****************
+ 2020-01-02 11:52:43 INFO  EmployeesRestAPI:44 - ******************* Checking response body ****************
+ 2020-01-02 11:52:58 INFO  EmployeesRestAPI:52 - ******************* Finished TC001_GET_AllEmployees ****************
+ 2020-01-02 15:47:43 INFO  EmployeesRestAPI:60 - ******************* Checking response body ****************
+ 2020-01-02 15:47:57 INFO  EmployeesRestAPI:68 - ******************* Finished TC001_GET_AllEmployees ****************
+ 2020-01-02 15:51:12 INFO  EmployeesRestAPI:60 - ******************* Checking response body ****************
+ 2020-01-02 15:51:32 INFO  EmployeesRestAPI:68 - ******************* Finished TC001_GET_AllEmployees ****************
+ 2020-01-02 15:53:01 INFO  EmployeesRestAPI:60 - ******************* Checking response body ****************
+ 2020-01-02 15:53:22 INFO  EmployeesRestAPI:68 - ******************* Finished TC001_GET_AllEmployees ****************
+ 2020-01-02 16:02:17 INFO  EmployeesRestAPI:60 - ******************* Checking response body ****************
+ 2020-01-02 16:02:42 INFO  EmployeesRestAPI:68 - ******************* Finished TC001_GET_AllEmployees ****************
+ 2020-01-02 20:51:20 INFO  EmployeesRestAPI:66 - ******************* Checking response body ****************
+ 2020-01-02 20:51:42 INFO  EmployeesRestAPI:74 - ******************* Finished TC001_GET_AllEmployees ****************
+ 
